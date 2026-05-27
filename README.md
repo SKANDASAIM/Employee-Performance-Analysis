@@ -1,38 +1,37 @@
 # Employee-Performance-Analysis
-Project Overview
 
 This project focuses on analyzing employee performance data to identify productivity trends, department-wise performance, salary distribution, and promotion patterns. The analysis was performed using Python, SQL, and Excel to generate business insights and interactive dashboards for HR analytics.
 
-Problem Statement
+## Problem Statement
 
 Organizations often face challenges in tracking employee productivity and identifying factors affecting workforce performance. This project aims to analyze employee data to uncover insights related to employee performance, attendance, salary trends, training, and promotions to support better HR decision-making.
 
-Objectives
+## Objectives
 
-Analyze employee performance trends
-Identify top-performing departments
-Study salary distribution and promotion patterns
-Evaluate the impact of attendance and training on performance
-Create interactive dashboards for HR analytics
++ Analyze employee performance trends
++ Identify top-performing departments
++ Study salary distribution and promotion patterns
++ Evaluate the impact of attendance and training on performance
++ Create interactive dashboards for HR analytics
 
-Tools & Technologies Used
+## Tools & Technologies Used
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-SQL
-MySQL
-Aggregations
-Filtering
-Group By Queries
-Excel
-Pivot Tables
-KPI Cards
-Charts
-Slicers
-Dashboard Creation
++ Python
++ + Pandas
++ + NumPy
++ Matplotlib
++ Seaborn
++SQL
++MySQL
++Aggregations
++Filtering
++Group By Queries
++Excel
++Pivot Tables
++KPI Cards
++Charts
++Slicers
++Dashboard Creation
 
 Dataset Features
 
