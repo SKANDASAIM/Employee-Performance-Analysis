@@ -21,12 +21,12 @@ Organizations often face challenges in tracking employee productivity and identi
   + NumPy
   + Matplotlib
   + Seaborn
-+SQL
++ SQL
   + MySQL
   + Aggregations
   + Filtering
   + Group By Queries
-+Excel
++ Excel
   + Pivot Tables
   + KPI Cards
   + Charts
