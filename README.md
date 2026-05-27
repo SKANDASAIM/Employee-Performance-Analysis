@@ -126,5 +126,5 @@ This project demonstrates how Python, SQL, and Excel can be used together to ana
 
 ## Author
 
-Skanda Sai M /n
-Data Analytics Project
+> Skanda Sai M 
+> Data Analytics Project
