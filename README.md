@@ -17,41 +17,41 @@ Organizations often face challenges in tracking employee productivity and identi
 ## Tools & Technologies Used
 
 + Python
-+ + Pandas
-+ + NumPy
-+ Matplotlib
-+ Seaborn
+  + Pandas
+  + NumPy
+  + Matplotlib
+  + Seaborn
 +SQL
-+MySQL
-+Aggregations
-+Filtering
-+Group By Queries
+  + MySQL
+  + Aggregations
+  + Filtering
+  + Group By Queries
 +Excel
-+Pivot Tables
-+KPI Cards
-+Charts
-+Slicers
-+Dashboard Creation
+  + Pivot Tables
+  + KPI Cards
+  + Charts
+  + Slicers
+  + Dashboard Creation
 
-Dataset Features
+## Dataset Features
 
-The dataset contains:
+### The dataset contains:
 
-Employee ID
-Employee Name
-Gender
-Department
-Job Role
-Salary
-Attendance Percentage
-Projects Completed
-Training Hours
-Performance Score
-Job Satisfaction
-Promotion Status
++ Employee ID
++ Employee Name
++ Gender
++ Department
++ Job Role
++ Salary
++ Attendance Percentage
++ Projects Completed
++ Training Hours
++ Performance Score
++ Job Satisfaction
++ Promotion Status
 
-Project Workflow
-
+## Project Workflow
+```
 Data Collection
        ↓
 Data Cleaning using Python
@@ -65,50 +65,51 @@ Data Visualization
 Excel Dashboard Creation
        ↓
 Business Insights
+```
 
-Key Analysis Performed
+## Key Analysis Performed
 
-Department-wise Performance Analysis
-Salary Distribution Analysis
-Promotion Rate Analysis
-Gender Distribution Analysis
-Correlation Analysis
-Attendance vs Performance Analysis
++ Department-wise Performance Analysis
++ Salary Distribution Analysis
++ Promotion Rate Analysis
++ Gender Distribution Analysis
++ Correlation Analysis
++ Attendance vs Performance Analysis
 
-Key Insights
+## Key Insights
 
-Sales department achieved the highest performance score
-Attendance positively impacted employee productivity
-Salary showed weak correlation with performance
-Most employees fall within mid-range salary categories
-Promotion rate was lower compared to total employees
++ Sales department achieved the highest performance score
++ Attendance positively impacted employee productivity
++ Salary showed weak correlation with performance
++ Most employees fall within mid-range salary categories
++ Promotion rate was lower compared to total employees
 
-Dashboard Features
+## Dashboard Features
 
-KPI Cards
-Pivot Tables
-Department Performance Charts
-Salary Distribution Histogram
-Promotion Analysis
-Interactive Slicers
++ KPI Cards
++ Pivot Tables
++ Department Performance Charts
++ Salary Distribution Histogram
++ Promotion Analysis
++ Interactive Slicers
 
-Sample SQL Queries
+## Sample SQL Queries
 
-Department-wise Average Performance
-
++ Department-wise Average Performance
+```
 SELECT department,
 AVG(performance_score) AS avg_performance
 FROM employees
 GROUP BY department;
-
-Top Performing Employees
-
+```
++ Top Performing Employees
+```
 SELECT employee_name, performance_score
 FROM employees
 ORDER BY performance_score DESC;
-
-Project Structure
-
+```
+## Project Structure
+```
 Employee-Performance-Analysis/
 │
 ├── dataset/
@@ -117,19 +118,13 @@ Employee-Performance-Analysis/
 ├── dashboard/
 ├── presentation/
 └── README.md
+```
 
-Future Enhancements
-
-Build predictive models using Machine Learning
-Develop Power BI dashboards
-Automate HR reporting systems
-Perform employee attrition analysis
-
-Conclusion
+## Conclusion
 
 This project demonstrates how Python, SQL, and Excel can be used together to analyze employee performance data and generate meaningful HR insights for better business decision-making.
 
-Author
+### Author
 
 Skanda Sai M
 Data Analytics Project
