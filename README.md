@@ -124,7 +124,7 @@ Employee-Performance-Analysis/
 
 This project demonstrates how Python, SQL, and Excel can be used together to analyze employee performance data and generate meaningful HR insights for better business decision-making.
 
-### Author
+## Author
 
 Skanda Sai M
 Data Analytics Project
